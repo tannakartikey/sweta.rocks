@@ -8,6 +8,16 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+.contact-link:link {
+  color: black;
+}
+
+.contact-link:visited {
+  color: black;
+}
+
+
 article,
 aside,
 details,
